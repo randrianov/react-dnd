@@ -1,6 +1,6 @@
 {
   "name": "react-dnd",
-  "version": "1.1.8",
+  "version": "https://github.com/randrianov/react-dnd",
   "description": "Drag and Drop for React",
   "main": "modules/index.js",
   "scripts": {
@@ -38,7 +38,7 @@
   "homepage": "https://github.com/gaearon/react-dnd",
   "dependencies": {
     "disposables": "^1.0.1",
-    "dnd-core": "^1.2.1",
+    "dnd-core": "https://github.com/randrianov/dnd-core",
     "invariant": "^2.1.0",
     "lodash": "^3.10.1"
   },
